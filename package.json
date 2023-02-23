@@ -1,9 +1,12 @@
 {
+  "name": "mongo-media",
+  "version": "1.0.0",
   "private": true,
-  "main": "app/index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
-    "test": "vitest"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "url": "git+https://github.com/brittanyb89/mongo-media.git"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.19.1",
@@ -12,7 +15,8 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-config-xo": "^0.43.1",
     "prettier": "^2.7.1",
-    "vitest": "^0.25.3"
+    "vitest": "^0.25.3",
+    "nodemon": "^2.0.15"
   },
   "dependencies": {
     "express": "^4.18.2",
