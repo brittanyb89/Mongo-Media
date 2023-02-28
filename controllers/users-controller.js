@@ -1,11 +1,10 @@
-const { users } = require("../models");
+const { User } = require("../models");
 
 // Set up thoughts controller
 const usersController = {
   // Get all users
   getAllUsers(req, res) {
-    users
-      .find({})
+    User.find({})
       .populate({
         path: "friends",
         select: "-__v",
