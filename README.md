@@ -16,7 +16,7 @@ This is an API for a social network web application where users can share their 
 
 [Github Repo](https://github.com/brittanyb89/mongo-media)
 
-[Check out the demo here!](https://watch.screencastify.com/v/25qgkZmxzeL80PP07jBn)
+[Check out the demo here!](https://watch.screencastify.com/v/Ts1xqPDbabdVYHtJtqcV)
 
 # User Story
 
