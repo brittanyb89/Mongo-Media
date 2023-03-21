@@ -15,9 +15,9 @@
 
 This is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. This application uses Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition, this application uses Moment.js for date formatting.
 
-[Github Repo](#https://github.com/brittanyb89/mongo-media)
+[Github Repo](https://github.com/brittanyb89/mongo-media)
 
-[Check out the demo here!](#https://watch.screencastify.com/v/25qgkZmxzeL80PP07jBn)
+[Check out the demo here!](https://watch.screencastify.com/v/25qgkZmxzeL80PP07jBn)
 
 # User Story
 
@@ -55,13 +55,13 @@ Run `npm i` to get all the things installed.
 
 ## Mock-Up
 
-![GET all users](../../OneDrive%20-%20Adore%20U%20Healthcare%20Services,%20LLC/Desktop/GET%20all%20users.png)
+![GET all users](images/GET%20all%20users.png)
 
-![POST create user](../../OneDrive%20-%20Adore%20U%20Healthcare%20Services,%20LLC/Desktop/POST%20create%20user.png)
+![GET all thoughts](images/GET%20all%20thoughts.png)
 
-![GET all thoughts](../../OneDrive%20-%20Adore%20U%20Healthcare%20Services,%20LLC/Desktop/GET%20all%20thoughts.png)
+![POST thought](images/POST%20create%20thought.png)
 
-![POST create thought](../../OneDrive%20-%20Adore%20U%20Healthcare%20Services,%20LLC/Desktop/POST%20create%20thought.png)
+![POST user](images/POST%20create%20user.png)
 
 ## Contributing
 
