@@ -7,7 +7,6 @@
 - [Usage](#usage)
 - [Mock-Up](#mock-up)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 - [License](#license)
 
@@ -66,12 +65,6 @@ Run `npm i` to get all the things installed.
 ## Contributing
 
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-## Tests
-
-To run tests, run the following command:
-
-`npm test`
 
 ## Questions
 
